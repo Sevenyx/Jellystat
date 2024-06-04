@@ -6,7 +6,6 @@ import Tasks from "./components/settings/Tasks";
 import BackupFiles from "./components/settings/backupfiles";
 import SecuritySettings from "./components/settings/security";
 import ApiKeys from "./components/settings/apiKeys";
-import LibrarySelector from "./library_selector";
 
 import Logs from "./components/settings/logs";
 
