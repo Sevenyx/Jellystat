@@ -155,8 +155,6 @@ try {
           `[JELLYSTAT] Server listening on http://${LISTEN_IP}:${PORT}`
         );
         ActivityMonitor.ActivityMonitor(1000);
-        tasks.FullSyncTask();
-        tasks.RecentlyAddedItemsSyncTask();
         tasks.BackupTask();
       });
     });
