@@ -1,7 +1,6 @@
 import React from 'react';
 
 
-import './css/library/libraries.css';
 
 
 
@@ -9,7 +8,6 @@ import './css/library/libraries.css';
 // import LibraryOverView from './components/libraryOverview';
 // import HomeStatisticCards from './components/HomeStatisticCards';
 // import Sessions from './components/sessions/sessions';
-import LibrarySelector from './library_selector';
 
 
 
