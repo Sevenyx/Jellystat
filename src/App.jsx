@@ -21,8 +21,6 @@ import Home from './pages/home';
 import Settings from './pages/settings';
 import Users from './pages/users';
 import UserInfo from './pages/components/user-info';
-import Libraries from './pages/libraries';
-import LibraryInfo from './pages/components/library-info';
 import ItemInfo from './pages/components/item-info';
 import ErrorPage from './pages/components/general/error';
 import About from './pages/about';
